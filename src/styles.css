@@ -1,0 +1,14 @@
+@import url(./css/reset.css);
+@import url(./css/background.css);
+@import url(./css/header.css);
+@import url(./css/button_animations_stages.css);
+@import url(./css/mail_animations.css);
+@import url(./css/home_h1_animation.css);
+@import url(./css/footer_styles.css);
+
+:root {
+  --top-background-color: ;
+  --main-background-color: ;
+  --for-rent-background-color: ;
+  --main-font-color: ;
+}
